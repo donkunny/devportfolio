@@ -651,7 +651,10 @@ footer {
 }
 
 .project-image {
-    float: left;
+    float: none;
+    width: 400px;
+    height: 400px;
+    margin-left: 15px;
 }
 
 .project-info {
